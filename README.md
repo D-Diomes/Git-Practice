@@ -1,2 +1,2 @@
-# Hello, This is my sample repository
+# Hello, this is my sample repository
 ## Modified
