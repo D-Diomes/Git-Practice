@@ -1,3 +1,2 @@
-# Git-Practice
-## Hello, This is my sample repository
-# Modified
+# Hello, This is my sample repository
+## Modified
